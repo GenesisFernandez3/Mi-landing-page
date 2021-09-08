@@ -1,0 +1,14 @@
+.btn-order{
+    background-color: #fcd6e9;
+    padding: 15px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #bd2578;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn-order:hover{
+    background-color: #bd2578;
+    color: #fcd6e9;
+}

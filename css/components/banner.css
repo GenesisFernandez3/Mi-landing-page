@@ -1,0 +1,27 @@
+.banner{
+    background-size: cover;
+    background-position: top;
+    height: 500px;
+    margin: 0px;
+    box-shadow: 10px 10px 10px rgb(150 150 150 /70%);
+    border-radius: 3px;
+}
+
+.banner h1{
+    margin: 30px 50px;
+    font-size: 70px;
+    font-family: 'Lobster', cursive;
+    color: #bd2578;
+}
+
+.banner h2{
+    margin: 30px 50px;
+    padding-bottom: 20px;
+    font-family: 'Roboto Slab', serif;
+    color: #fad6e8;
+}
+
+.banner a{
+    margin: 30px 50px;
+    font-family: 'Roboto Slab', serif;
+}
